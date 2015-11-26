@@ -1,7 +1,7 @@
 name: nicwerks
 favicon: null
-layout_spectrum: 0.36709707346744835
-typography_spectrum: 0.9462894087191671
+layout_spectrum: 1
+typography_spectrum: 0.3644
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#29abe2'
+    - '#32499c'
+    - '#00ffff'
+    - '#0000ff'
+    - '#000000'
   brandStrength: 0.8468480627052486
   lightness: 0.7041710934136063
   saturation: 0.8537211120128632
