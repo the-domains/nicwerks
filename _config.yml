@@ -1,0 +1,28 @@
+name: nicwerks
+favicon: null
+layout_spectrum: 0.36709707346744835
+typography_spectrum: 0.9462894087191671
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8468480627052486
+  lightness: 0.7041710934136063
+  saturation: 0.8537211120128632
+  rhythmicContrast: 0.24678158177994192
+purpose: []
